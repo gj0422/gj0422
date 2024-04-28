@@ -16,14 +16,4 @@ Here are some ideas to get you started:
 -->
   <!-- knock code pictures 敲代码的图片 -->
   <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/gj0422/gj0422/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/gj0422/gj0422/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/gj0422/gj0422/assets/images/coding.gif" />
-  </picture>
-    <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/gj0422/gj0422/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/gj0422/gj0422/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/gj0422/gj0422/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+![Metrics](https://metrics.lecoq.io/gj0422?template=terminal&isocalendar=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FShanghai)
