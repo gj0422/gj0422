@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
   <!-- knock code pictures 敲代码的图片 -->
   <!-- knock code pictures 敲代码的图片 -->
-![Metrics](https://metrics.lecoq.io/gj0422?template=terminal&isocalendar=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FShanghai)
+<div align="center"> 
+  <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
+</div>
