@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+<--
 **gj0422/gj0422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60F7A9&random=true&width=435&lines=I'll+try+anything+once;Romantic+until+death;We+can+all+be+as+brave+as+each+other;The+roses+will+always+bloom;sometimes+ever+%2Csometimes+never" alt="Typing SVG" />
 </a>
+#  🙋 Hello
+
+<table>
+  
+<tr><td>
 <div align="center"> 
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
 </div>
