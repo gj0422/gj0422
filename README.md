@@ -15,10 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
   <!-- knock code pictures 敲代码的图片 -->
-  <!-- knock code pictures 敲代码的图片 -->
-<div align="center"> 
-  <img src="https://metrics.lecoq.io/gj0422?template=classic&config.timezone=Asia%2FShanghai">
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr><td>
+  
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+  
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60F7A9&random=true&width=435&lines=I'll+try+anything+once;Romantic+until+death;We+can+all+be+as+brave+as+each+other;The+roses+will+always+bloom;sometimes+ever+%2Csometimes+never" alt="Typing SVG" />
 </a>
