@@ -67,7 +67,5 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gj0422" /> 
 </div>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=gj0422" alt="GitHub Streak" />
-</a>
+
 
