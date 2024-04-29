@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://metrics.lecoq.io/gj0422?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=I'll+try+anything+once;Romantic+until+death;We+can+all+be+as+brave+as+each+other;The+roses+will+always+bloom;sometimes+ever+%2Csometimes+never" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60F7A9&random=true&width=435&lines=I'll+try+anything+once;Romantic+until+death;We+can+all+be+as+brave+as+each+other;The+roses+will+always+bloom;sometimes+ever+%2Csometimes+never" alt="Typing SVG" />
 </a>
 <div align="center"> 
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
 </span>
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=gj0422" /> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=gj0422.visitor-badge" /> 
 </div>
 <div align="center"> 
   <img src="https://activity-graph.herokuapp.com/graph?username=gj0422&theme=xcode" /> 
@@ -45,4 +45,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gj0422" /> 
 </div>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=gj0422" alt="GitHub Streak" />
+</a>
 
